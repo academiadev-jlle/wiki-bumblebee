@@ -1,12 +1,12 @@
 # Bumblebee
 
-Projeto Desenvolvido junto ao curso Academia Dev Joinville para o registros de Pets abandonados, em situação de rua e para adoção
+Projeto Desenvolvido junto ao curso Academia Dev Joinville para o registros de Pets abandonados, em situaÃ§Ã£o de rua e para adoÃ§Ã£o
 
 ## Iniciando o Projeto
 
 TODO
 
-### Pré-requisitos 
+### PrÃ©-requisitos 
 
 TODO
 
@@ -16,7 +16,7 @@ Exemplo comando
 
 ### Installing
 
-Para a instalação do projeto, é necessário inserir os seguintes comandos:
+Para a instalaÃ§Ã£o do projeto, Ã© necessÃ¡rio inserir os seguintes comandos:
 
 ```
 Exemplo comando 1 
@@ -24,14 +24,14 @@ Exemplo comando 1
 
 ## Executando os testes
 
-Para executar os testes é necessário executar os seguintes comandos:
+Para executar os testes Ã© necessÃ¡rio executar os seguintes comandos:
 ```
 Exemplo comando 1
 ```
 
 ## Deploy 
 
-Informações de deploy... TODO
+InformaÃ§Ãµes de deploy... TODO
 
 ## Build with...
 
@@ -43,11 +43,12 @@ Informações de deploy... TODO
 
 * **Bruno Miguel Morais**  [GitHub](https://github.com/PurpleBooth)
 * **Victor Lucas de Melo Mafra**  [GitHub](https://github.com/PurpleBooth)
-*  **Vinícius de Oliveira**  [GitHub](https://github.com/PurpleBooth)
+*  **VinÃ­cius de Oliveira**  [GitHub](https://github.com/PurpleBooth)
 *  **Wagner Esser**  [GitHub](https://github.com/PurpleBooth)
 
-## Licença
-TODO
+## LicenÃ§a
+
+[Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0.html)
 
 ## Conhecimentos 
 TODO
