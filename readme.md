@@ -1,4 +1,4 @@
-# Bumblebee
+﻿# Bumblebee
 
 Projeto Desenvolvido junto ao curso Academia Dev Joinville para o registros de Pets abandonados, em situação de rua e para adoção
 
@@ -44,7 +44,7 @@ Informações de deploy... TODO
 * **Bruno Miguel Morais**  [GitHub](https://github.com/PurpleBooth)
 * **Victor Lucas de Melo Mafra**  [GitHub](https://github.com/PurpleBooth)
 *  **Vinícius de Oliveira**  [GitHub](https://github.com/PurpleBooth)
-*  **Wagner Esser**  [GitHub](https://github.com/PurpleBooth)
+*  **Wagner Esser**  [GitHub](https://github.com/WagnerEsser)
 
 ## Licença
 
