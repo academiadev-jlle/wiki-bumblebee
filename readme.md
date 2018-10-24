@@ -1,7 +1,10 @@
-# Bumblebee ([Wiki](https://github.com/academiadev-joinville/projeto-wiki-bumblebee/wiki))
 [![Waffle.io - Columns and their card count](https://badge.waffle.io/academiadev-joinville/projeto-backend-bumblebee.svg?columns=all)](https://waffle.io/academiadev-joinville/projeto-backend-bumblebee) 
 
-Projeto Desenvolvido junto ao curso Academia Dev Joinville para o registros de Pets abandonados, em situação de rua e para adoção
+# Bumblebee
+
+#### ([Wiki Principal](https://github.com/academiadev-joinville/projeto-wiki-bumblebee/wiki))
+
+Projeto desenvolvido junto ao curso Academia Dev Joinville para o registros de Pets abandonados, perdidos, encontrados, para doação e adoção.
 
 ## Autores
 
@@ -17,46 +20,4 @@ Projeto Desenvolvido junto ao curso Academia Dev Joinville para o registros de P
 - [Frontend](https://github.com/academiadev-joinville/projeto-frontend-bumblebee)
 - [Wiki](https://github.com/academiadev-joinville/projeto-wiki-bumblebee)
 
-## Iniciando o Projeto
-
-TODO
-
-### Pré-requisitos 
-
-TODO
-
-```
-Exemplo comando
-```
-
-### Installing
-
-Para a instalação do projeto, é necessário inserir os seguintes comandos:
-
-```
-Exemplo comando 1 
-```
-
-## Executando os testes
-
-Para executar os testes é necessário executar os seguintes comandos:
-```
-Exemplo comando 1
-```
-
-## Deploy 
-
-Informações de deploy... TODO
-
-## Build with...
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Licença
-
-[Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0.html)
-
-## Conhecimentos 
-TODO
+#### Para instalação e execução do projeto utilize as instruções descritas nos repositórios de frontend e backend listados acima.
