@@ -1,6 +1,21 @@
-﻿# Bumblebee
+# Bumblebee ([Wiki](https://github.com/academiadev-joinville/projeto-wiki-bumblebee/wiki))
+[![Waffle.io - Columns and their card count](https://badge.waffle.io/academiadev-joinville/projeto-backend-bumblebee.svg?columns=all)](https://waffle.io/academiadev-joinville/projeto-backend-bumblebee) 
 
 Projeto Desenvolvido junto ao curso Academia Dev Joinville para o registros de Pets abandonados, em situação de rua e para adoção
+
+## Autores
+
+* **Backend**
+  * **[Vinícius de Oliveira](https://github.com/PurpleBooth)** (Capitão)
+  * **[Bruno Miguel Morais](https://github.com/PurpleBooth)** (SRE)
+* **Frontend**
+  * **[Victor Lucas de Melo Mafra](https://github.com/PurpleBooth)** (Product Owner)
+  * **[Wagner Esser](https://github.com/WagnerEsser)** (Arquiteto/Analista)
+
+### Repositórios
+- [Backend](https://github.com/academiadev-joinville/projeto-backend-bumblebee)
+- [Frontend](https://github.com/academiadev-joinville/projeto-frontend-bumblebee)
+- [Wiki](https://github.com/academiadev-joinville/projeto-wiki-bumblebee)
 
 ## Iniciando o Projeto
 
@@ -38,13 +53,6 @@ Informações de deploy... TODO
 * [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
 * [Maven](https://maven.apache.org/) - Dependency Management
 * [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Autores
-
-* **Bruno Miguel Morais**  [GitHub](https://github.com/PurpleBooth)
-* **Victor Lucas de Melo Mafra**  [GitHub](https://github.com/PurpleBooth)
-*  **Vinícius de Oliveira**  [GitHub](https://github.com/PurpleBooth)
-*  **Wagner Esser**  [GitHub](https://github.com/WagnerEsser)
 
 ## Licença
 
