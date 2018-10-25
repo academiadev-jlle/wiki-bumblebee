@@ -9,11 +9,11 @@ Projeto desenvolvido junto ao curso Academia Dev Joinville para o registros de P
 ## Autores
 
 * **Backend**
-  * **[Vinícius de Oliveira](https://github.com/PurpleBooth)** (Capitão)
-  * **[Bruno Miguel Morais](https://github.com/PurpleBooth)** (SRE)
+  * **[Vinícius de Oliveira](https://github.com/academiadev-joinville/projeto-wiki-bumblebee/blob/master/vinicius.jpeg)** (Capitão)
+  * **[Bruno Miguel Morais](https://github.com/academiadev-joinville/projeto-wiki-bumblebee/blob/master/bruno2.jpeg)** (SRE)
 * **Frontend**
-  * **[Victor Lucas de Melo Mafra](https://github.com/PurpleBooth)** (Product Owner)
-  * **[Wagner Esser](https://github.com/WagnerEsser)** (Arquiteto/Analista)
+  * **[Victor Lucas de Melo Mafra](https://github.com/academiadev-joinville/projeto-wiki-bumblebee/blob/master/victor.jpeg)** (Product Owner)
+  * **[Wagner Esser](https://github.com/academiadev-joinville/projeto-wiki-bumblebee/blob/master/wagner.jpeg)** (Arquiteto/Analista)
 
 ### Repositórios
 - [Backend](https://github.com/academiadev-joinville/projeto-backend-bumblebee)
