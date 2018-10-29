@@ -17,4 +17,4 @@
 - [NodeJS](https://nodejs.org/en/)
 - [Gradle](https://gradle.org/)
 - [PostgreSql](https://www.postgresql.org/)
-- [Waffle.io](https://waffle.io/about)
+- [Waffle.io](https://waffle.io/academiadev-jlle/wiki-bumblebee)
