@@ -10,6 +10,7 @@
 
 ### Materiais de Ajuda 
 - [Como criar um pull request]()
+- [Integração GitHub com o circleCI](tutoriais_guias/integracao_circleCI.md)
 
 ### Ferramentas Utilizadas
 - [GitHub](https://github.com/about)
