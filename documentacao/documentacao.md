@@ -24,7 +24,7 @@ facilite o uso pelo usuário, complexidade, etc.
  * Desenvolvimento de API - Java;
  * Desenvolvimento de Frontend - [Repositório]()
 ### Funcionalidades
-- [Cadastro de usuario](cadastroUsuario.md)
+- [Cadastro de usuário](cadastroUsuario.md)
 - [Autenticação de usuario](autenticacaoUsuario.md)
 - [Página do pet](paginaPet.md)
 - [Perfil e configurações](perfilConfiguracoesUsuario.md)
