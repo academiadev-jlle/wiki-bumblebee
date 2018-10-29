@@ -6,7 +6,7 @@ O levantamento das funcionalidades obrigatórias está sob responsabilidade do c
 
 O desenvolvimento foi dividido em grupos de atividades denominados de "milestones".  As milestones compõem uma itareção do desenvolvimento que deve durar 7 dias. Ao final de cada iteração, a equipe se reune e discute sobre as atividades desenvolvidas durante a milestone. 
 
-Com o objetivo de organizar o processo de desenvolvimento e avaliar o andamento das atividades, as tarefas estão organizadas junto à plataforma [Waffle.io](https://waffle.io/about) de acordo com as seguintes categorias:
+Com o objetivo de organizar o processo de desenvolvimento e avaliar o andamento das atividades, as tarefas estão organizadas junto à plataforma [Waffle.io](https://waffle.io/academiadev-jlle/wiki-bumblebee) de acordo com as seguintes categorias:
 
 * **Inbox**: Tarefas não inciadas e sem definição de milestone. Pode ou não ter haver integrante  responsável por elas.
 * **Backlog**: Tarefas que fazem parte da milestone corrente mas que ainda não estão sendo desenvolvidas. Possuem responsáveis e espera-se que sejam concluídas dentro do prazo da milestone.

@@ -9,8 +9,12 @@
 - [Organização das branches](organizacao_time/organizacaoBranches.md)
 
 ### Materiais de Ajuda 
+<<<<<<< HEAD
 - [Como criar um pull request]()
 - [Integração GitHub com o circleCI](tutoriais_guias/integracao_circleCI.md)
+=======
+- [Como criar um pull request (em desenvolvimento...)]()
+>>>>>>> 85dcbea71815cf1abaaed1ba596d4147ab9b79cf
 
 ### Ferramentas Utilizadas
 - [GitHub](https://github.com/about)
@@ -18,4 +22,4 @@
 - [NodeJS](https://nodejs.org/en/)
 - [Gradle](https://gradle.org/)
 - [PostgreSql](https://www.postgresql.org/)
-- [Waffle.io](https://waffle.io/about)
+- [Waffle.io](https://waffle.io/academiadev-jlle/wiki-bumblebee)
