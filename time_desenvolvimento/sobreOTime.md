@@ -1,4 +1,4 @@
-# Infomrações sobre o time de desenvolvimento
+# Informações sobre o time de desenvolvimento
 
 ## Organização da equipe
 |SRE|Product Owner|Capitão|Arquiteto|
