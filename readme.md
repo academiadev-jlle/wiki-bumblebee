@@ -2,18 +2,18 @@
 
 # Bumblebee
 
-#### ([Wiki Principal](https://github.com/academiadev-joinville/projeto-wiki-bumblebee/wiki))
+#### ([Wiki Principal](documentacao/home.md))
 
 Projeto desenvolvido junto ao curso Academia Dev Joinville para o registros de Pets abandonados, perdidos, encontrados, para doação e adoção.
 
 ## Autores
 
 * **Backend**
-  * **[Vinícius de Oliveira](https://github.com/academiadev-joinville/projeto-wiki-bumblebee/blob/master/vinicius.jpeg)** (Capitão)
-  * **[Bruno Miguel Morais](https://github.com/academiadev-joinville/projeto-wiki-bumblebee/blob/master/bruno2.jpeg)** (SRE)
+  * **[Vinícius de Oliveira](https://github.com/academiadev-jlle/wiki/blob/master/.gitbook/assets/vinicius.png)** (Capitão)
+  * **[Bruno Miguel Morais](https://github.com/academiadev-jlle/wiki/blob/master/.gitbook/assets/bumblebee-bruno-sre.png)** (SRE)
 * **Frontend**
-  * **[Victor Lucas de Melo Mafra](https://github.com/academiadev-joinville/projeto-wiki-bumblebee/blob/master/victor.jpeg)** (Product Owner)
-  * **[Wagner Esser](https://github.com/academiadev-joinville/projeto-wiki-bumblebee/blob/master/wagner.jpeg)** (Arquiteto/Analista)
+  * **[Victor Lucas de Melo Mafra](https://github.com/academiadev-jlle/wiki/blob/master/.gitbook/assets/bumblebee-victor-po.png)** (Product Owner)
+  * **[Wagner Esser](https://github.com/academiadev-jlle/wiki/blob/master/.gitbook/assets/bumblebee-wagner-arquiteto.png)** (Arquiteto/Analista)
 
 ### Repositórios
 - [Backend](https://github.com/academiadev-joinville/projeto-backend-bumblebee)
