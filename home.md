@@ -9,7 +9,7 @@
 - [Organização das branches](organizacao_time/organizacaoBranches.md)
 
 ### Materiais de Ajuda 
-- [Como criar um pull request]()
+- [Como criar um pull request (em desenvolvimento...)]()
 
 ### Ferramentas Utilizadas
 - [GitHub](https://github.com/about)
