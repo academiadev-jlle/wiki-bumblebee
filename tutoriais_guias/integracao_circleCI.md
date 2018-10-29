@@ -18,11 +18,11 @@ faça o login na plataforma com o seu GitHub e permita o acesso da sua conta.
 
 Na tela apresentada, clique em "Add Project" conforme ilustra a figura abaixo:
 
-![img1](./imagens_tutoriais/circleCI/imgci1.png) 
+![img1](.././imagens_tutoriais/circleCI/imgci1.png) 
 
 Na tela de Add Projects, no canto superior esquerdo, escolha o seu perfil pessoal ou alguma organização. Então escolha um projeto e clique em "Set Up Project"
 
-![img2](./imagens_tutoriais/circleCI/imgci2.png) 
+![img2](.././imagens_tutoriais/circleCI/imgci2.png) 
 
 Na tela de Set Up, selecione a linguagem (Gradle (Java), por exemplo). Na pasta do projeto, crie uma pasta chamada ".circleci" e, nela crie um arquivo chamado "config.yml". Neste arquivo, insera o seguinte código.
 
@@ -72,18 +72,18 @@ jobs:
 ```
 Após, retorne para a página de Set Up e, na área "Next Steps", clique em "Start building", conforme ilustra a figura a baixo:
 
-![img3](./imagens_tutoriais/circleCI/imgci3.png) 
+![img3](.././imagens_tutoriais/circleCI/imgci3.png) 
 
 Agora já temos o circleCI funcionando.  A cada push ele testará o código para verificar se há erros e, nos commits e pull requests, será informado se as modificações estão corretas ou se a ferramenta identificou erros. Um exemplo de verificação do circleCI é ilutrado na figura abaixo:
 
-![img4](./imagens_tutoriais/circleCI/imgci4.png) 
+![img4](.././imagens_tutoriais/circleCI/imgci4.png) 
 
 **Legenda**
 Vermelho: ocorreu algum erro<br>
 Amarelo: CircleCI está processando o código<br>
 Verde: não há erros!!!!!
 
-Por Bruno Miguel e Vinicius Oliveira
+Por Bruno Miguel e Vinicius Oliveira.
 
 
 

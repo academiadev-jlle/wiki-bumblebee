@@ -8,13 +8,9 @@
 - [Fluxo das tarefas](organizacao_time/fluxoTarefas.md)
 - [Organização das branches](organizacao_time/organizacaoBranches.md)
 
-### Materiais de Ajuda 
-<<<<<<< HEAD
-- [Como criar um pull request]()
-- [Integração GitHub com o circleCI](tutoriais_guias/integracao_circleCI.md)
-=======
+### Materiais de Ajuda
 - [Como criar um pull request (em desenvolvimento...)]()
->>>>>>> 85dcbea71815cf1abaaed1ba596d4147ab9b79cf
+- [Integração GitHub com o circleCI](tutoriais_guias/integracao_circleCI.md)
 
 ### Ferramentas Utilizadas
 - [GitHub](https://github.com/about)
