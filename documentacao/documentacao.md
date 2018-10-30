@@ -20,9 +20,10 @@ facilite o uso pelo usuário, complexidade, etc.
 
 ### Requisitos técnicos obrigatórios:
  * Banco de Dados - [Modelo do BD](../modelo_banco.png);
- * Desenvolvimento de Backend - Java - [Repositório]();
+ * Desenvolvimento de Backend
  * Desenvolvimento de API - Java;
- * Desenvolvimento de Frontend - [Repositório]()
+ * Desenvolvimento de Frontend
+ 
 ### Funcionalidades
 - [Cadastro de usuário](cadastroUsuario.md)
 - [Autenticação de usuario](autenticacaoUsuario.md)
