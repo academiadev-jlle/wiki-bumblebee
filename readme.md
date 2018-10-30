@@ -2,8 +2,6 @@
 
 # Bumblebee
 
-#### ([Wiki Principal](home.md))
-
 Projeto desenvolvido junto ao curso Academia Dev Joinville para o registros de Pets abandonados, perdidos, encontrados, para doação e adoção.
 
 ## Autores
@@ -13,11 +11,11 @@ Projeto desenvolvido junto ao curso Academia Dev Joinville para o registros de P
   * **[Bruno Miguel Morais](https://github.com/academiadev-jlle/wiki/blob/master/.gitbook/assets/bumblebee-bruno-sre.png)** (SRE)
 * **Frontend**
   * **[Victor Lucas de Melo Mafra](https://github.com/academiadev-jlle/wiki/blob/master/.gitbook/assets/bumblebee-victor-po.png)** (Product Owner)
-  * **[Wagner Esser](https://github.com/academiadev-jlle/wiki/blob/master/.gitbook/assets/bumblebee-wagner-arquiteto.png)** (Arquiteto/Analista)
+  * **[Wagner Esser](https://github.com/WagnerEsser)** (Arquiteto/Analista)
 
 ### Repositórios
-- [Backend](https://github.com/academiadev-joinville/projeto-backend-bumblebee)
-- [Frontend](https://github.com/academiadev-joinville/projeto-frontend-bumblebee)
-- [Wiki](https://github.com/academiadev-joinville/projeto-wiki-bumblebee)
+- [Backend](https://github.com/academiadev-jlle/backend-bumblebee)
+- [Frontend](https://github.com/academiadev-jlle/frontend-bumblebee)
+- [Wiki](https://github.com/academiadev-jlle/wiki-bumblebee)
 
 #### Obs.: Para instalação e execução do projeto utilize as instruções descritas nos repositórios de frontend e backend listados acima.
