@@ -9,7 +9,7 @@
 - [Organização das branches](organizacao_time/organizacaoBranches.md)
 
 ### Materiais de Ajuda
-- [Como criar um pull request (em desenvolvimento...)]()
+- [Como criar um pull request](https://github.com/academiadev-jlle/wiki/blob/master/git/pull-request.md)
 - [Integração GitHub com o circleCI](tutoriais_guias/integracao_circleCI.md)
 
 ### Ferramentas Utilizadas
