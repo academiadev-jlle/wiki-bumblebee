@@ -16,6 +16,5 @@ Projeto desenvolvido junto ao curso Academia Dev Joinville para o registros de P
 ### Repositórios
 - [Backend](https://github.com/academiadev-jlle/backend-bumblebee)
 - [Frontend](https://github.com/academiadev-jlle/frontend-bumblebee)
-- [Wiki](https://github.com/academiadev-jlle/wiki-bumblebee)
 
 #### Obs.: Para instalação e execução do projeto utilize as instruções descritas nos repositórios de frontend e backend listados acima.
