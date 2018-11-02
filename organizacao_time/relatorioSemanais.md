@@ -20,7 +20,7 @@
 ### Backend
 - Criação dos Controllers
 - Criação dos repositories
-- Implantação do "Soft Delete" nas ações de remoção e reescrever os métodos de busca
+- Implantação do "Soft Delete" nas ações de remoção e adequação dos métodos de busca
 - Criação dos enums
 - Configuração do Swagger
 - Criação das exceções para retorno dos métodos de busca
