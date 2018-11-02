@@ -7,6 +7,7 @@
 ### Organização do Time 
 - [Fluxo das tarefas](organizacao_time/fluxoTarefas.md)
 - [Organização das branches](organizacao_time/organizacaoBranches.md)
+- [Relatório Semanais](organizacao_time/relatorioSemanais.md)
 
 ### Materiais de Ajuda
 - [Como criar um pull request](https://github.com/academiadev-jlle/wiki/blob/master/git/pull-request.md)
