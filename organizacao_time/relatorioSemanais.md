@@ -2,7 +2,7 @@
 
 ## Semana 1
 ### Frontend
-- Criação do projeto Angular e instação das dependências
+- Criação do projeto Angular e instalação das dependências
 - Criação dos mockups das telas Home, Login e Cadastro de usuário
 
 ### Backend
