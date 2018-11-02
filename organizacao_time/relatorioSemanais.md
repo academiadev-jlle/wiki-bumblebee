@@ -8,6 +8,7 @@
 ### Backend
 - Escrita da documentação do projeto
 - Escrita do tutorial de como criar um pull request
+- Modelagem do diagrama do banco de dados
 - Criação das models
 - Criação do projeto Gradle e instalação das dependências
 
