@@ -2,8 +2,8 @@
 
 ## Semana 1
 ### Frontend
-- Criação do projeto Angular e instalação das dependências
-- Criação dos mockups das telas Home, Login e Cadastro de usuário
+- Criação dos mockups das telas Home, Login e Cadastro de usuário;
+- Definição da estrutura de repositório git.
 
 ### Backend
 - Escrita da documentação do projeto
@@ -14,9 +14,10 @@
 
 ## Semana 2
 ### Frontend
-- Corrigir estrutura de diretórios do repositório;
-- Configurar ambiente Angular;
-- Mockup de todas as páginas;
+- Criação dos mockups de tela restantes;
+- Correção da estrutura de diretórios do repositório;
+- Definição da estrutura de diretórios do projeto.
+- Configuração e preparação do ambiente de deploy no Heroku.
 
 ### Backend
 - Criação dos Controllers
