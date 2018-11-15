@@ -24,7 +24,7 @@ Na tela de Add Projects, no canto superior esquerdo, escolha o seu perfil pessoa
 
 ![img2](.././imagens_tutoriais/circleCI/imgci2.png) 
 
-Na tela de Set Up, selecione a linguagem (Gradle (Java), por exemplo). Na pasta do projeto, crie uma pasta chamada ".circleci" e, nela crie um arquivo chamado "config.yml". Neste arquivo, insera o seguinte código.
+Na tela de Set Up, selecione a linguagem (Gradle (Java), por exemplo). Na pasta do projeto, crie uma pasta chamada ".circleci" e, nela crie um arquivo chamado "config.yml". Neste arquivo, insira o seguinte código.
 
 ```
 # Java Gradle CircleCI 2.0 configuration file
@@ -70,7 +70,7 @@ jobs:
       # run tests!
       - run: gradle test
 ```
-Após, retorne para a página de Set Up e, na área "Next Steps", clique em "Start building", conforme ilustra a figura a baixo:
+Após, retorne para a página de Set Up e, na área "Next Steps", clique em "Start building", conforme ilustra a figura abaixo:
 
 ![img3](.././imagens_tutoriais/circleCI/imgci3.png) 
 
