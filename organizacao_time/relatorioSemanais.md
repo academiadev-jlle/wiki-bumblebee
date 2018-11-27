@@ -35,3 +35,15 @@
 - Estudo de sites semelhantes para definição de estilização do sistema;
 - Criação da estrutura base do restante das telas do sistema;
 - Estudo da portabilização do site para dispositivos móveis.
+
+## Semana 4 (17/11 - 23/11)
+### Frontend
+- Criação do formulário de login;
+- Reestruturamento do layout da página inicial.
+
+## Semana 5 (24/11 - 30/11)
+### Frontend
+- Estudo do sistema de autenticação;
+- Criação de testes unitários;
+- Criação dos formulários de cadastro de usuário e de pet;
+- Sistema de autenticação.
