@@ -31,6 +31,10 @@ facilite o uso pelo usuário, complexidade, etc.
 - [Perfil e configurações](perfilConfiguracoesUsuario.md)
 - [Cadastro de pet](cadastroPet.md)
 - [Edição e remoção de pet](editarRemoverPet.md)
+- [Cadastro de Uf](cadastroUf.md)
+- [Cadastro de cidade](cadastroCidade.md)
+- [Cadastro de localização](cadastroLocalizacao.md)
+- [Comentários de pet](comentarioPet.md)
 
 ### Demais funcionalidades 
 - [Autenticação com as redes sociais(em desenvolvimento ...)]()
