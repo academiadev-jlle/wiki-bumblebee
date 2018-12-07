@@ -2,7 +2,11 @@
 
 ## Descrição
 
-O objetivo do projeto é utilizar os aprendizados recebidos recebidos de tutores, mentores, equipes da Code:Nation e das empreas parceiras.
+O Bumblebee Pets é uma plataforma web para publicação e busca de animais perdidos, achados ou
+disponíveis para adoção, foi desenvolvido junto ao curso Academia Dev Joinville ofertado pela Code:Nation em parceria Asaas, 
+Becomex, Conta Azul e Treasy. Este projeto foi desenvolvido com objetivo de aplicar os conceitos aprendidos em aula durante o andamento do curso. 
+
+Neste repositório está armazenado a wiki do projeto, um ambiente criado com o objetivo de descrever o processo de desenvolvimento do backend e frontend. As tecnologias utilizadas, a organização do time de desenvolvimento, as atividades desenvolvidas e demais informações são listadas abaixo. 
 
 ## Sobre o Projeto
 
@@ -46,10 +50,14 @@ facilite o uso pelo usuário, complexidade, etc.
 - [Como criar um pull request](https://github.com/academiadev-jlle/wiki/blob/master/git/pull-request.md)
 - [Integração GitHub com o circleCI](tutoriais_guias/integracao_circleCI.md)
 
-### Ferramentas Utilizadas
+### Ferramentas e tecnologias utilizadas
 - [GitHub](https://github.com/about)
 - [Java 8](https://www.java.com/pt_BR/download/faq/java8.xml)
 - [NodeJS](https://nodejs.org/en/)
 - [Gradle](https://gradle.org/)
 - [PostgreSql](https://www.postgresql.org/)
 - [Waffle.io](https://waffle.io/academiadev-jlle/wiki-bumblebee)
+- [CircleCI](https://circleci.com/)
+- [Angular](https://angular.io/)
+- [Spring Boot](http://spring.io/projects/spring-boot)
+- [Scrum](https://www.scrum.org/resources/what-is-scrum)
