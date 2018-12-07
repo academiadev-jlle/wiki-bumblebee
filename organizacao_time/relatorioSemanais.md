@@ -35,7 +35,7 @@
 ### Frontend
 - Estudo de sites semelhantes para definição de estilização do sistema;
 - Criação da estrutura base do restante das telas do sistema;
-- Estudo da portabilização do site para dispositivos móveis.
+- Estudo da portabilidade do site para dispositivos móveis.
 
 ### Backend
 - Criação dos métodos Rest 
@@ -43,7 +43,7 @@
 - Refatoração do soft delete com o CrudControllerAbstrato 
 - Criação do pacote Mapper 
 - Criação do pacote DTO
-- Rafatoração dos controllers 
+- Refatoração dos controllers 
 - Criação da entidade auditável
 - Criação do pacote service
 - Criação do controller abstrato
@@ -53,7 +53,7 @@
 ## Semana 4 (11/11 - 17/11)
 ### Frontend
 - Criação do formulário de login;
-- Reestruturamento do layout da página inicial.
+- Reestruturação do layout da página inicial.
 
 ### Backend
 - Troca do banco de dados do H2 para o PostgreSQL
