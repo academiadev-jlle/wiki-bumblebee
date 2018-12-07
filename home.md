@@ -51,13 +51,27 @@ facilite o uso pelo usuário, complexidade, etc.
 - [Integração GitHub com o circleCI](tutoriais_guias/integracao_circleCI.md)
 
 ### Ferramentas e tecnologias utilizadas
+
+####Backend
+- [CircleCI](https://circleci.com/)
 - [GitHub](https://github.com/about)
 - [Java 8](https://www.java.com/pt_BR/download/faq/java8.xml)
-- [NodeJS](https://nodejs.org/en/)
 - [Gradle](https://gradle.org/)
 - [PostgreSql](https://www.postgresql.org/)
-- [Waffle.io](https://waffle.io/academiadev-jlle/wiki-bumblebee)
-- [CircleCI](https://circleci.com/)
-- [Angular](https://angular.io/)
 - [Spring Boot](http://spring.io/projects/spring-boot)
+- [JUnit](https://junit.org/junit5/)
+- [Swagger](https://swagger.io/)
+
+####Frontend
+- [NodeJS](https://nodejs.org/en/)
+- [Angular](https://angular.io/)
+- [Bootstrap](https://getbootstrap.com/docs/4.1/getting-started/introduction/)
+- [AngularCLI](https://cli.angular.io/)
+- [TypeScript](https://www.npmjs.com/package/typescript)
+- [Sass](https://sass-lang.com/)
+
+####Geral
+- [Waffle.io](https://waffle.io/academiadev-jlle/wiki-bumblebee)
 - [Scrum](https://www.scrum.org/resources/what-is-scrum)
+- [Heroku](https://devcenter.heroku.com/)
+- [Slack](https://slack.com/features)
