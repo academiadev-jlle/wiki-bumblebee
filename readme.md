@@ -7,10 +7,11 @@
 ## Autores
 
 * **Backend**
-  * **[Vinícius de Oliveira](https://github.com/academiadev-jlle/wiki/blob/master/.gitbook/assets/vinicius.png)** (Capitão)
-  * **[Bruno Miguel Morais](https://github.com/academiadev-jlle/wiki/blob/master/.gitbook/assets/bumblebee-bruno-sre.png)** (SRE)
+  * **[Bruno Miguel Morais](https://github.com/bmorais21)** (SRE)
+  * **[Vinícius de Oliveira](https://github.com/viniciusbsi)** (Capitão)
+
 * **Frontend**
-  * **[Victor Lucas de Melo Mafra](https://github.com/academiadev-jlle/wiki/blob/master/.gitbook/assets/bumblebee-victor-po.png)** (Product Owner)
+  * **[Victor Lucas de Melo Mafra](https://github.com/victormafra)** (Product Owner)
   * **[Wagner Esser](https://github.com/WagnerEsser)** (Arquiteto/Analista)
 
 ### Repositórios
