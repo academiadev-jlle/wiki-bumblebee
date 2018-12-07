@@ -52,7 +52,13 @@ facilite o uso pelo usuário, complexidade, etc.
 
 ### Ferramentas e tecnologias utilizadas
 
-####Backend
+#### Geral
+- [Waffle.io](https://waffle.io/academiadev-jlle/wiki-bumblebee)
+- [Scrum](https://www.scrum.org/resources/what-is-scrum)
+- [Heroku](https://devcenter.heroku.com/)
+- [Slack](https://slack.com/features)
+
+#### Backend
 - [CircleCI](https://circleci.com/)
 - [GitHub](https://github.com/about)
 - [Java 8](https://www.java.com/pt_BR/download/faq/java8.xml)
@@ -62,16 +68,10 @@ facilite o uso pelo usuário, complexidade, etc.
 - [JUnit](https://junit.org/junit5/)
 - [Swagger](https://swagger.io/)
 
-####Frontend
+#### Frontend
 - [NodeJS](https://nodejs.org/en/)
 - [Angular](https://angular.io/)
 - [Bootstrap](https://getbootstrap.com/docs/4.1/getting-started/introduction/)
 - [AngularCLI](https://cli.angular.io/)
 - [TypeScript](https://www.npmjs.com/package/typescript)
 - [Sass](https://sass-lang.com/)
-
-####Geral
-- [Waffle.io](https://waffle.io/academiadev-jlle/wiki-bumblebee)
-- [Scrum](https://www.scrum.org/resources/what-is-scrum)
-- [Heroku](https://devcenter.heroku.com/)
-- [Slack](https://slack.com/features)
