@@ -67,6 +67,7 @@ facilite o uso pelo usuário, complexidade, etc.
 - [Spring Boot](http://spring.io/projects/spring-boot)
 - [JUnit](https://junit.org/junit5/)
 - [Swagger](https://swagger.io/)
+- [OAuth2](https://oauth.net/2/)
 
 #### Frontend
 - [NodeJS](https://nodejs.org/en/)
