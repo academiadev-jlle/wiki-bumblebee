@@ -19,7 +19,7 @@ as alterações sejam justificáveis. Exemplos: tempo de desenvolvimento, nova i
 facilite o uso pelo usuário, complexidade, etc.
 
 ### Requisitos técnicos obrigatórios:
- * Banco de Dados - [Modelo do BD](../modelo_banco.png);
+ * Banco de Dados - [Modelo do BD](../modelo-banco.png);
  * Desenvolvimento de Backend
  * Desenvolvimento de API - Java;
  * Desenvolvimento de Frontend
