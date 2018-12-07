@@ -1,3 +1,4 @@
+
 # Relatório das atividades desenvolvidas
 
 ## Semana 1 (20/10 - 27/10)
@@ -55,7 +56,10 @@
 - Reestruturamento do layout da página inicial.
 
 ### Backend
-
+- Troca do banco de dados do H2 para o PostgreSQL
+- Alterado o formato de criação das sequences do banco de dados
+- Corrigido problemas na entidade auditável
+- Desenvolvimento do exercício [Minhas Finanças](https://academiadev.gitbook.io/joinville/exercicios/minhas-financas)
 
 ## Semana 5 (18/11 - 24/11)
 ### Frontend
@@ -65,10 +69,33 @@
 - Sistema de autenticação.
 
 ### Backend
+- Criação dos testes dos controllers
+- Criação da autenticação de usuário
+- Criação do método de retorno de pet por usuário
+- Desenvolvimento do exercício [Minhas Finanças](https://academiadev.gitbook.io/joinville/exercicios/minhas-financas)
+
 
 ## Semana 6 (25/11 - 01/12)
 
-
+### Backend
+- Alterado os controllers para criar e retornar objetos através de DTOs
+- Integração dos testes com autenticação de usuário
+- Cadastro de fotos de pet
 
 ## Semana 7 (02/11 - 08/11)
 
+### Backend
+- Criação a entidade "Bairro"
+- Atualização da documentação do projeto
+- Criação do campo "Contato do usuário"
+- Criação do método de buscar pet por Porte e Espécie
+- Criação da paginação dos registros de pet
+- Criação dos controllers de comentário de pet
+- Validações dos DTOs
+- Verificações de Segurança de usuário
+- Correção de controllers 
+- Criação do populate de cidades e estados
+- Pesquisa e implementação das regras do GDPR
+- Envio de e-mail de confirmação de cadastro 
+- Criação dos métodos de update dos controllers de usuário e pet
+- Recuperação da senha de usuário 
