@@ -2,7 +2,7 @@
 
 # Bumblebee
 
-#### ([Wiki Principal](home.md))
+#### ([Documentação do projeto](home.md))
 
 Projeto desenvolvido junto ao curso Academia Dev Joinville para o registros de Pets abandonados, perdidos, encontrados, para doação e adoção.
 
