@@ -39,6 +39,7 @@ facilite o uso pelo usuário, complexidade, etc.
 - [Cadastro de cidade](documentacao/cadastroCidade.md)
 - [Cadastro de localização](documentacao/cadastroLocalizacao.md)
 - [Comentários de pet](documentacao/comentarioPet.md)
+- [Login com redes sociais](documentacao/loginRedesSociais.md)
 
 ### Organização do Time 
 - [Time de desenvolvimento](time_desenvolvimento/sobreOTime.md)
